@@ -5,6 +5,7 @@ Thapar Institute of Engineering and Technology, Patiala
 Department of Computer Science and Engineering
 
 **Student:** Hardhavan Singh  
+**Subject:** Software Engineering (UCT305)   
 **Roll No:** 1025180013 | **Semester:** 3 | **Batch:** COBS (2R11) | **Faculty:** Dr. Vinay Arora  
 **Academic Year:** 2026–27
 
@@ -14,11 +15,11 @@ Hostel Management → Mess Management
 
 ## Problem Context
 
-Mess operations in Hostel D (Neeram Hall), serving approximately 800 students, are handled through three disconnected channels: the menu over WhatsApp, rebates on paper forms, and feedback through a QR-linked web form. The channels share no common data store, so requests cannot be tracked and feedback cannot be linked to the meal it concerns.
+Mess operations in Hostel D (Neeram Hall) serving approximately 800 students are handled through three disconnected channels those are the menu over WhatsApp, rebates on paper forms and feedback through a QR-linked web form. The channels share no common data store. So, requests cannot be tracked and feedback cannot be linked to the meal it concerns.
 
 ## Proposed System
 
-A single system in which students view the daily menu, rate meals, submit complaints and apply for rebates. The mess committee acts on feedback and updates the menu, the warden approves rebates, and the contractor receives consolidated reports.
+A single system in which students view the daily menu, rate meals, submit complaints and apply for rebates. The mess committee acts on feedback and updates the menu, the warden approves rebates and the contractor receives consolidated reports.
 
 ## Actors
 
