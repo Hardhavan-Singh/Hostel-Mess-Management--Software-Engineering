@@ -61,10 +61,3 @@ Student · Mess Committee · Warden · Mess Contractor
 ## Tools
 
 draw.io (UML and DFDs) · Microsoft Word (documentation) · Git & GitHub
-
-
-
-\## Tools
-
-draw.io (UML and DFDs) · Microsoft Word (documentation) · Git \& GitHub
-
