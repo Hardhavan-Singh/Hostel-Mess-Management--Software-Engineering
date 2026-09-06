@@ -46,7 +46,7 @@ Student · Mess Committee · Warden · Mess Contractor
 ## Progress
 
 - [x] Repository setup
-- [ ] Introduction to the domain
+- [x] Introduction to the domain
 - [ ] Sub-domain and problem identification
 - [ ] Requirement gathering and analysis
 - [ ] SRS
