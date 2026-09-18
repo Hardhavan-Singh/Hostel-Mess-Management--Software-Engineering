@@ -48,10 +48,10 @@ Student · Mess Committee · Warden · Mess Contractor
 - [x] Repository setup
 - [x] Introduction to the domain
 - [x] Sub-domain and problem identification
-- [ ] Requirement gathering and analysis
-- [ ] SRS
-- [ ] Use case narratives
-- [ ] Use case diagram
+- [x] Requirement gathering and analysis
+- [x] SRS
+- [x] Use case narratives
+- [x] Use case diagram
 - [ ] Class diagram
 - [ ] Activity diagram
 - [ ] Sequence and collaboration diagrams
