@@ -1,0 +1,10 @@
+# draw.io backup files
+*.bkp
+.$*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Office temp files
+~$*
