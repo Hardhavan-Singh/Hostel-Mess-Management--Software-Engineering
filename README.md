@@ -52,7 +52,7 @@ Student · Mess Committee · Warden · Mess Contractor
 - [x] SRS
 - [x] Use case narratives
 - [x] Use case diagram
-- [ ] Class diagram
+- [x] Class diagram
 - [ ] Activity diagram
 - [ ] Sequence and collaboration diagrams
 - [ ] Data flow diagrams
